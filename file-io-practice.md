@@ -1,11 +1,10 @@
-# Linux File read and write – Day 06
+ Linux File read and write – Day 06
 
 Practiced basic file read/write using core Linux commands.  
 Kept it simple and repeatable.
 
 
-
-## What I did
+What I did
 
 
 touch notes.txt
