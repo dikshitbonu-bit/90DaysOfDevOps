@@ -7,13 +7,19 @@ Kept it simple and repeatable.
 What I did
 
 
-touch notes.txt
-echo " how are you" > notes.txt
-echo " where are you" >> notes.txt
-echo " iam fine" | tee -a notes.txt
-cat notes.txt
-head -n 2 notes.txt
-tail -n 2 notes.txt
+ 1) touch notes.txt
+
+2) echo " how are you" > notes.txt
+
+3) echo " where are you" >> notes.
+
+4) echo " iam fine" | tee -a notes.txt
+
+5) cat notes.
+
+6) head -n 2 notes.
+
+7) tail -n 2 notes.txt
 
 
 
