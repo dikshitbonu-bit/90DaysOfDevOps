@@ -1,99 +1,130 @@
-# Day 01 – Introduction to DevOps and Cloud
+# 🚀 90DaysOfDevOps
+### Learn • Build • Practice • Become Job-Ready
 
-## Task
-Today’s goal is to **set the foundation for your DevOps journey**.
+Welcome to **90DaysOfDevOps**, a structured and hands-on DevOps challenge by **TrainWithShubham**.
 
-You will create a **90-day personal DevOps learning plan** that clearly defines:
-- What is your understanding of DevOps and Cloud Engineering?
-- Why you are starting learning DevOps & Cloud?
-- Where do you want to reach?
-- How you will stay consistent every single day?
+This repository is designed to help you **build real DevOps skills step by step in 90 days** — not by watching endless videos, but by **doing daily tasks**, building projects, and thinking like a **production-ready DevOps engineer**.
 
-This is not a generic plan.  
-This is your **career execution blueprint** for the next 90 days.
+This is not a theory-heavy course.  
+This is a **discipline + execution challenge**.
 
 ---
 
-## Expected Output
-By the end of today, you should have:
+## 🎯 What is #90DaysOfDevOps?
 
-- A markdown file named:  
-  `learning-plan.md`
+**#90DaysOfDevOps** is a **day-wise DevOps learning challenge** where:
 
-or
+- Every day has **one clear task**
+- Every task has a **real-world DevOps outcome**
+- Every learner builds a **public GitHub proof of work**
+- Every concept is reinforced through **hands-on practice**
+- Learning is aligned with **live classes and recordings**
 
-- A hand written plan for the next 90 Days (Recommended)
-
-
-The file/note should clearly reflect your intent, discipline, and seriousness toward becoming a DevOps engineer.
-
----
-
-## Guidelines
-Follow these rules while creating your plan:
-
-- Mention your **current level**  
-  (student / fresher / working professional / non-IT background, etc.)
-- Define **3 clear goals** for the next 90 days  
-  (example: deploy a production-grade application on Kubernetes)
-- Define **3 core DevOps skills** you want to build  
-  (example: Linux troubleshooting, CI/CD pipelines, Kubernetes debugging)
-- Allocate a **weekly time budget**  
-  (example: 2–2.5 hours per day on weekdays, 4-6 hours weekends)
-- Keep the document **under 1 page**
-- Be honest and realistic; consistency matters more than perfection
+By the end of 90 days, you will have:
+- Strong DevOps fundamentals
+- Multiple mini-projects
+- One end-to-end DevOps capstone project
+- A GitHub profile that clearly shows consistency
+- Confidence to handle DevOps interviews and production systems
 
 ---
 
-## Resources
-You may refer to:
+## 🧠 Who Is This For?
 
-- TrainWithShubham [course curriculum](https://english.trainwithshubham.com/JOSH_BATCH_10_Syllabus_v1.pdf)
-- TrainWithShubham DevOps [roadmap](https://docs.google.com/spreadsheets/d/1eE-NhZQFr545LkP4QNhTgXcZTtkMFeEPNyVXAflXia0/edit?gid=2073716385#gid=2073716385)
-- Your own past experience and career aspirations
+This challenge is ideal for:
 
-Avoid over-researching today. The focus is **clarity**, not depth.
+- Students and freshers entering DevOps or Cloud
+- Working professionals switching to DevOps / SRE / Cloud roles
+- Developers who want to understand infrastructure and CI/CD
+- Anyone who believes **consistency beats talent**
 
----
-
-## Why This Matters for DevOps
-DevOps engineers succeed not just because of tools, but because of:
-
-- Discipline
-- Ownership
-- Long-term thinking
-- Ability to execute consistently
-
-In real jobs, no one tells you exactly what to do every day.  
-This task trains you to **take ownership of your own growth**, just like a real DevOps engineer.
-
-A clear plan:
-- Reduces confusion
-- Prevents burnout
-- Keeps you focused during tough days
+No prior DevOps experience is required.  
+**Commitment is mandatory.**
 
 ---
 
-## Submission
-1. Fork this `90DaysOfDevOps` repository  
-2. Navigate to the `2026/day-01/` folder  
-3. Add your `learning-plan.md` file  
-4. Commit and push your changes to your fork  
+## 🗂 Repository Structure
+
+```
+90DaysOfDevOps/
+│
+├── README.md
+├── CONTRIBUTING.md
+├── LICENSE
+├── .gitignore
+│
+├── scripts/
+│   └── helper-scripts.sh
+│
+├── day-01/
+│   └── README.md
+├── day-02/
+│   └── README.md
+├── ...
+├── day-90/
+│   └── README.md
+```
 
 ---
 
-## Learn in Public
-Share your Day 01 progress on LinkedIn:
+## 📅 How the Challenge Works
 
-- Post 2–3 lines on why you’re starting **#90DaysOfDevOps**
-- Share one goal from your learning plan
-- Optional: screenshot of your markdown file or a professional picture
+- **One day = one task**
+- Tasks are aligned with **live classes**
+- Live class days focus on **core concepts**
+- Weekdays focus on **practice and reinforcement**
+- Daily commits are encouraged
 
-Use hashtags:
+Even **30–60 minutes per day** is enough if done honestly.
+
+---
+
+## 🛠 What You Will Learn
+
+- Linux fundamentals and troubleshooting
+- Shell scripting and automation
+- Networking basics for DevOps
+- Git and GitHub workflows
+- Docker and containerization
+- AWS core and advanced services
+- CI/CD using Jenkins, GitHub Actions, GitLab
+- DevSecOps fundamentals
+- Kubernetes, Helm, ArgoCD
+- Terraform and Ansible
+- Observability with Grafana, Prometheus, OpenTelemetry
+- End-to-end DevOps project
+
+---
+
+## 📦 How to Participate
+
+1. Fork this repository
+2. Clone your fork
+3. Navigate to the current `day-XX` folder
+4. Complete the task
+5. Commit and push your work
+
+---
+
+## 🌍 Learn in Public
+
+Share your progress on LinkedIn:
+
+```
 #90DaysOfDevOps
 #DevOpsKaJosh
 #TrainWithShubham
+```
 
+---
+
+## ❤️ Final Note
+
+DevOps is not about tools.  
+It is about **ownership, reliability, and consistency**.
+
+One day at a time.  
+One commit at a time.
 
 Happy Learning  
 **TrainWithShubham**
