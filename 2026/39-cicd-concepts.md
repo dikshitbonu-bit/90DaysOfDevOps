@@ -337,7 +337,7 @@ Trigger: Push to main branch
 │  │ Step 3: Stop old container                                   │   │
 │  │ Step 4: Start new container (docker run -d -p 80:3000 ...)  │   │
 │  │ Step 5: Run health check (curl http://staging/health)       │   │
-│  │ Step 6: Send Slack notification ✅ Deployed!                │   │
+│  │ Step 6: Send Slack notification  Deployed!                │   │
 │  └─────────────────────────────────────────────────────────────┘   │
 └─────────────────────────────────────────────────────────────────────┘
    │
@@ -459,4 +459,5 @@ Best guess from reading the YAML:
 - Reusable and shareable
 
 ---
+
 
