@@ -110,7 +110,7 @@ None - all existing repos were relevant and worth keeping
 
 ### After
 
-![After Profile](screenshots/after.png)
+![After Profile](../screenshots/after.png)
 
 ### 3 Major Improvements
 

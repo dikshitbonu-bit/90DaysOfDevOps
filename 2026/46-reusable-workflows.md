@@ -680,4 +680,4 @@ steps:
 
 ---
 
-![Workflow Run](screenshots/workflow-run.png)
+![Workflow Run](../screenshots/workflow-run.png)
