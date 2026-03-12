@@ -484,8 +484,8 @@ jobs:
 
 ---
 
-![screen-shots](screenshots/test-script.jpg)
+![screen-shots](screenshots/test-script.png)
 
 
 
-![scrren-shots](screenshots/test-script2.jpg)
+![screen-shots](screenshots/test-script2.png)
