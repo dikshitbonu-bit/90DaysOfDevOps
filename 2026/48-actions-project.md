@@ -1,8 +1,8 @@
 # Day 48 – GitHub Actions Capstone: Netflix Clone DevSecOps Pipeline
 
 [![Main Pipeline](https://github.com/dikshitbonu-bit/netflix-devsecops/actions/workflows/main.yml/badge.svg)](https://github.com/dikshitbonu-bit/netflix-devsecops/actions/workflows/main.yml)
-[![PR Pipeline](https://github.com/dikshitbonu-bit/netflix-devsecops/actions/workflows/pr-pipeline.yml/badge.svg)](https://github.com/dikshitbonu-bit/netflix-devsecops/actions/workflows/pr-pipeline.yml)
-[![Health Check](https://github.com/dikshitbonu-bit/netflix-devsecops/actions/workflows/health-check.yml/badge.svg)](https://github.com/dikshitbonu-bit/netflix-devsecops/actions/workflows/health-check.yml)
+[![PR Pipeline](https://github.com/dikshitbonu-bit/netflix-devsecops/actions/workflows/pr-pipeline.yml/badge.svg?branch=feature%2Fnetflix-app)](https://github.com/dikshitbonu-bit/netflix-devsecops/actions/workflows/pr-pipeline.yml)
+
 
 ---
 
