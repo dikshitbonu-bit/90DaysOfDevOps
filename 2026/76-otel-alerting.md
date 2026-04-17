@@ -331,7 +331,7 @@ For most small-to-medium setups: Grafana alerts for notifications, Prometheus ru
 
 ![normal-grafana](../screenshots/grafana-n.png)
 ![firing-grafana](../screenshots/grafana-f.png)
-
+![email](../screenshots/email.png)
 ---
 
 ## Task 6 – Full Stack Architecture
